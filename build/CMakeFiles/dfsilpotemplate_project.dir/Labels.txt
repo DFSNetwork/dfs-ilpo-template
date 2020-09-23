@@ -1,0 +1,14 @@
+# Target labels
+ dfsilpotemplate_project
+# Source files and their labels
+/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project
+/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project-complete.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-install.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-mkdir.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-download.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-update.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-patch.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-configure.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-build.rule
+/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-test.rule

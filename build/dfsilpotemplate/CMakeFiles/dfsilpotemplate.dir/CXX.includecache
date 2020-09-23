@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joe/dfs-core/dfsilpotemplate/include/dfsilpotemplate.hpp
+eosio/eosio.hpp
+-
+eosio/asset.hpp
+-
+eosio/singleton.hpp
+-
+
+/Users/joe/dfs-core/dfsilpotemplate/src/dfsilpotemplate.cpp
+dfsilpotemplate.hpp
+-
+

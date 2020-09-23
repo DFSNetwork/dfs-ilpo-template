@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project-complete.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-install.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-mkdir.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-download.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-update.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-patch.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-configure.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-build.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/dfsilpotemplate/build/dfsilpotemplate_project-prefix/src/dfsilpotemplate_project-stamp/dfsilpotemplate_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dfsilpotemplate_project"
+		],
+		"name" : "dfsilpotemplate_project"
+	}
+}

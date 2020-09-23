@@ -1,0 +1,1 @@
+//usr/local/bin/eosio-ld  CMakeFiles/dfsilpotemplate.dir/dfsilpotemplate.obj -o dfsilpotemplate.wasm 

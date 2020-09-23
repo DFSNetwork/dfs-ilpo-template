@@ -1,0 +1,3 @@
+/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/rebuild_cache.dir
+/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/edit_cache.dir
+/Users/joe/dfs-core/dfsilpotemplate/build/CMakeFiles/dfsilpotemplate_project.dir
